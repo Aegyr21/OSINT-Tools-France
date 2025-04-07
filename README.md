@@ -13,8 +13,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
  - [People, phones, social etc.](#people)
  - [Public procurements](#public-procurement)
  - [WHOIS](#whois)
- - [Appendix](#appendix) # Add it only if you really have to
-
+ - [Appendix](#appendix)
+   
 ## Open Data portals
 - [Government open data portal](https://www.data.gouv.fr/en)
 - [Government gazette](https://www.journal-officiel.gouv.fr/pages/accueil/)
@@ -26,7 +26,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Administrative justice's rulings index](https://opendata.justice-administrative.fr/)
 
 ### Stock
-- [French and European stock exchange](https://live.euronext.com/en/markets/paris)
+- [Euronext](https://live.euronext.com/en/markets/paris), French and European stock exchange
 
 ## Legal Entities
 - [Government legal entities directory](https://annuaire-entreprises.data.gouv.fr/en)
