@@ -20,14 +20,13 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Government open data portal](https://www.data.gouv.fr/en)
 - [Government gazette](https://www.journal-officiel.gouv.fr/pages/accueil/)
 - [Political transparency authority](https://www.hatvp.fr/en/), useful to get some informations about lobbying, as well as politicians' wealth. It also publishes notes regarding deontology cases.
-- [National institute of statistics](https://www.insee.fr/en/accueil).
-- d
+- [National institute of statistics](https://www.insee.fr/en/accueil)
 - [Archive of old local newspapers](https://presselocaleancienne.bnf.fr/html/journaux-numerises)
 
 ## Legal Entities
-- [Government legal entities directory](https://annuaire-entreprises.data.gouv.fr/en).
+- [Government legal entities directory](https://annuaire-entreprises.data.gouv.fr/en)
 - [Pappers.fr](https://www.pappers.fr/) search for company and officier information.
-- [INPI : Intellectual property and legal entites database](https://data.inpi.fr/).
+- [INPI : Intellectual property and legal entites database](https://data.inpi.fr/)
 - [Updated media ownership infographic](https://www.monde-diplomatique.fr/cartes/PPA) by _Le Monde Diplomatique_.
 
 ## Maps
@@ -35,6 +34,9 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Official cadastral map]([https://cadastre.data.gouv.fr/), very useful to quickly check the reference of a specific parcel.
 - [Cadastral data portal](https://www.cadastre.gouv.fr/scpc/afficherRechPlanCarte.do), to get more detailed information.
 - [National geographic institute](https://www.geoportail.gouv.fr/)
+- [Map of corruption indictments](https://carto.transparency-france.org/acts/8f2dec22), created and updated by [Transparency International France](https://transparency-france.org/home).
+- [Map of extreme right wing groups in France](https://cartofaf.streetpress.com/)
+- [Cadastral map of mining project in metropolitan France and oversees](https://camino.beta.gouv.fr)
 
 ## Vehicles
 - [Entity 1. 2 etc.]
