@@ -16,7 +16,6 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
  - [Appendix](#appendix) # Add it only if you really have to
 
 ## Open Data portals
-(Country Open Data, Stock Exchange, Courts)
 - [Government open data portal](https://www.data.gouv.fr/en)
 - [Government gazette](https://www.journal-officiel.gouv.fr/pages/accueil/)
 - [Political transparency authority](https://www.hatvp.fr/en/), useful to get some informations about lobbying, as well as politicians' wealth. It also publishes notes regarding deontology cases.
@@ -25,6 +24,9 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 
 ### Courts
 - [Administrative justice's rulings index](https://opendata.justice-administrative.fr/)
+
+### Stock
+- [French and European stock exchange](https://live.euronext.com/en/markets/paris)
 
 ## Legal Entities
 - [Government legal entities directory](https://annuaire-entreprises.data.gouv.fr/en)
@@ -44,7 +46,6 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Entity 1. 2 etc.]
 
 ## People 
-(Names, Addresses, Yellow Pages, White Pages etc.)
 - [White pages](https://www.pagesjaunes.fr/pagesblanches)
 - [Copains d'avant](https://copainsdavant.linternaute.com/recherche-amis), french social network, mostly useful for researching older people.
 - Try [OSINT Industries](https://app.osint.industries) and don't forget about the [Digital Profiler's Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit)
