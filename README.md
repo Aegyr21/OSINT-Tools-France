@@ -23,6 +23,9 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [National institute of statistics](https://www.insee.fr/en/accueil)
 - [Archive of old local newspapers](https://presselocaleancienne.bnf.fr/html/journaux-numerises)
 
+### Courts
+- [Administrative justice's rulings index](https://opendata.justice-administrative.fr/)
+
 ## Legal Entities
 - [Government legal entities directory](https://annuaire-entreprises.data.gouv.fr/en)
 - [Pappers.fr](https://www.pappers.fr/) search for company and officier information.
