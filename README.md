@@ -26,7 +26,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Administrative justice's rulings index](https://opendata.justice-administrative.fr/)
 
 ### Stock
-- [Euronext](https://live.euronext.com/en/markets/paris), French and European stock exchange
+- [Euronext](https://live.euronext.com/en/markets/paris), French and European stock exchange.
+- [Autorité des marchés financier](https://www.amf-france.org/en), financial regulatory authority.
 
 ## Legal Entities
 - [Government legal entities directory](https://annuaire-entreprises.data.gouv.fr/en)
