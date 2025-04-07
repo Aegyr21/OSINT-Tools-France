@@ -30,13 +30,12 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Updated media ownership infographic](https://www.monde-diplomatique.fr/cartes/PPA) by _Le Monde Diplomatique_.
 
 ## Maps
-(Cadastral Maps if available, GIS etc.)
-- [Official cadastral map]([https://cadastre.data.gouv.fr/), very useful to quickly check the reference of a specific parcel.
+- [Cadastral map](https://cadastre.data.gouv.fr/), very useful to quickly check the reference of a specific parcel.
 - [Cadastral data portal](https://www.cadastre.gouv.fr/scpc/afficherRechPlanCarte.do), to get more detailed information.
 - [National geographic institute](https://www.geoportail.gouv.fr/)
 - [Map of corruption indictments](https://carto.transparency-france.org/acts/8f2dec22), created and updated by [Transparency International France](https://transparency-france.org/home).
 - [Map of extreme right wing groups in France](https://cartofaf.streetpress.com/)
-- [Cadastral map of mining project in metropolitan France and oversees](https://camino.beta.gouv.fr)
+- [Cadastral map of mining projects](https://camino.beta.gouv.fr), in metropolitan France and overseas.
 
 ## Vehicles
 - [Entity 1. 2 etc.]
