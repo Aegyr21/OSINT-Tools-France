@@ -46,9 +46,12 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - Try [OSINT Industries](https://app.osint.industries) and don't forget about the [Digital Profiler's Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit)
 
 ## Public procurement
-- [Entity 1. 2 etc.]
+- [Official public procurement platform](https://www.marches-publics.gouv.fr/)
+- [Open platform about public proccurements](https://www.francemarches.com/)
 
 ## WHOIS
 - [Entity 1. 2 etc.]
 
 ## Appendix
+- [Index of symbols used by french extreme right wing groups](https://indextreme.fr/)
+- [French OSINT community](https://osint-fr.com/)
