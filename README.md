@@ -44,6 +44,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Map of extreme right wing groups in France](https://cartofaf.streetpress.com/) by the media [Streetpress](https://www.streetpress.com/)
 - [Cadastral map of mining projects](https://camino.beta.gouv.fr), in metropolitan France and overseas.
 - [Map of delinquency figures recorded by region](https://ssmsi.shinyapps.io/donneesterritoriales/)
+- [Map of "forever pollution" in Europe, including France](https://foreverpollution.eu/map/)
 
 ## Vehicles
 - [Research by registration plate number](https://siv-auto.fr/), will give you details about the vehicle, but not the ownership.
