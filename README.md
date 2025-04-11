@@ -21,7 +21,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Political transparency authority](https://www.hatvp.fr/en/), useful to get some informations about lobbying, as well as politicians' wealth. It also publishes notes regarding deontology cases.
 - [National institute of statistics](https://www.insee.fr/en/accueil)
 - [Archive of old local newspapers](https://presselocaleancienne.bnf.fr/html/journaux-numerises)
-- [Transparence santé]([url](https://www.transparence.sante.gouv.fr/pages/accueil/), information regarding agreements, remuneration and benefits linking companies and players in the health sector.
+- [Transparence santé](https://www.transparence.sante.gouv.fr/pages/accueil/), informations regarding agreements, remuneration and benefits linking companies and players in the health sector.
 
 ### Courts
 - [Administrative justice's rulings index](https://opendata.justice-administrative.fr/)
