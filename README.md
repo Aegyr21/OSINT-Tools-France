@@ -21,6 +21,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Political transparency authority](https://www.hatvp.fr/en/), useful to get some informations about lobbying, as well as politicians' wealth. It also publishes notes regarding deontology cases.
 - [National institute of statistics](https://www.insee.fr/en/accueil)
 - [Archive of old local newspapers](https://presselocaleancienne.bnf.fr/html/journaux-numerises)
+- [Transparence santé]([url](https://www.transparence.sante.gouv.fr/pages/accueil/), information regarding agreements, remuneration and benefits linking companies and players in the health sector.
 
 ### Courts
 - [Administrative justice's rulings index](https://opendata.justice-administrative.fr/)
@@ -40,7 +41,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Cadastral data portal](https://www.cadastre.gouv.fr/scpc/afficherRechPlanCarte.do), to get more detailed information.
 - [National geographic institute](https://www.geoportail.gouv.fr/)
 - [Map of corruption indictments](https://carto.transparency-france.org/acts/8f2dec22), created and updated by [Transparency International France](https://transparency-france.org/home), provides publicly acessible information about each case.
-- [Map of extreme right wing groups in France](https://cartofaf.streetpress.com/)
+- [Map of extreme right wing groups in France](https://cartofaf.streetpress.com/) by the media [Streetpress](https://www.streetpress.com/)
 - [Cadastral map of mining projects](https://camino.beta.gouv.fr), in metropolitan France and overseas.
 - [Map of delinquency figures recorded by region](https://ssmsi.shinyapps.io/donneesterritoriales/)
 
