@@ -31,7 +31,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Autorité des marchés financier](https://www.amf-france.org/en), financial regulatory authority.
 
 ## Legal Entities
-- [Government legal entities directory](https://annuaire-entreprises.data.gouv.fr/en)
+- [Government legal entities directory](https://annuaire-entreprises.data.gouv.fr/)
 - [Pappers.fr](https://www.pappers.fr/) search for company and officier information.
 - [INPI : Intellectual property and legal entites database](https://data.inpi.fr/), that's where you can submit a request to know a company's beneficial ownership.
 - [Updated media ownership infographic](https://www.monde-diplomatique.fr/cartes/PPA) by _Le Monde Diplomatique_.
@@ -59,7 +59,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Open platform about public proccurements](https://www.francemarches.com/)
 
 ## WHOIS
-- [Entity 1. 2 etc.]
+- [nom-domaine.fr](nom-domaine.fr)
+- [whois-raynette.fr](http://www.whois-raynette.fr/)
 
 ## Appendix
 - [Index of symbols used by french extreme right wing groups](https://indextreme.fr/)
