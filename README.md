@@ -35,6 +35,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Pappers.fr](https://www.pappers.fr/) search for company and officier information.
 - [INPI : Intellectual property and legal entites database](https://data.inpi.fr/), that's where you can submit a request to know a company's beneficial ownership.
 - [Updated media ownership infographic](https://www.monde-diplomatique.fr/cartes/PPA) by _Le Monde Diplomatique_.
+- [Societe.com](https://www.societe.com). Registration required
+- [Societe Ninja](https://www.societe.ninja). Free public company information. Custom search
 
 ## Maps
 - [Cadastral map](https://cadastre.data.gouv.fr/), very useful to quickly check the reference of a specific parcel.
