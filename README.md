@@ -25,6 +25,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 
 ### Courts
 - [Administrative justice's rulings index](https://opendata.justice-administrative.fr/)
+- [justice.pappers.fr](https://justice.pappers.fr/) open archive of court decisions, allows search by keyword
 
 ### Stock
 - [Euronext](https://live.euronext.com/en/markets/paris), French and European stock exchange.
@@ -54,6 +55,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ## People 
 - [White pages](https://www.pagesjaunes.fr/pagesblanches)
 - [Copains d'avant](https://copainsdavant.linternaute.com/recherche-amis), french social network, mostly useful for researching older people.
+- [Official directory of lawyers](https://www.cnb.avocat.fr/fr/annuaire-des-avocats-de-france)
 - Try [OSINT Industries](https://app.osint.industries) and don't forget about the [Digital Profiler's Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit)
 
 ## Public procurement
